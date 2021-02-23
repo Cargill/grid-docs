@@ -18,3 +18,4 @@ community meeting.
 | Feature | Description |
 | ------- | ----------- |
 | [Location Sapling]({% link community/planning/location_sapling.md %}) | A front-end for Grid Location functionality |
+| [Purchase Order]({% link community/planning/purchase_order.md %}) | A solution for sharing purchasing information between trade partners |
